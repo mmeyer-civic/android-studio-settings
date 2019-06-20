@@ -21,6 +21,12 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl colon" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="c" />
+  </action>
   <action id="Dart.DartStyle">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
