@@ -29,6 +29,7 @@
   </action>
   <action id="Dart.DartStyle">
     <keyboard-shortcut first-keystroke="shift meta f" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="d" />
   </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt f5" />
