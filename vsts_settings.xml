@@ -3,6 +3,15 @@
     <option name="serverContexts">
       <array>
         <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://civicsystems@dev.azure.com/civicsystems/IntelliJSettingsRepository/_git/IntelliJSettingsRepository" />
+          <option name="serverUri" value="https://dev.azure.com/civicsystems" />
+          <option name="userId" value="2a95018a-d3f3-4616-804e-4a73ea0f658a" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;2015a2ef-f475-48c4-a890-915a3273d928&quot;,&quot;name&quot;:&quot;civicsystems&quot;,&quot;url&quot;:&quot;https://dev.azure.com/civicsystems/_apis/projectCollections/2015a2ef-f475-48c4-a890-915a3273d928&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0c621019-32c5-48a2-be01-ef97a6e4e0cf&quot;,&quot;name&quot;:&quot;IntelliJSettingsRepository&quot;,&quot;revision&quot;:409394088,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/civicsystems/_apis/projects/0c621019-32c5-48a2-be01-ef97a6e4e0cf&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;e9550aa4-8a37-4104-82c3-37d00e46cac2&quot;,&quot;name&quot;:&quot;IntelliJSettingsRepository&quot;,&quot;remoteUrl&quot;:&quot;https://civicsystems@dev.azure.com/civicsystems/IntelliJSettingsRepository/_git/IntelliJSettingsRepository&quot;,&quot;url&quot;:&quot;https://dev.azure.com/civicsystems/0c621019-32c5-48a2-be01-ef97a6e4e0cf/_apis/git/repositories/e9550aa4-8a37-4104-82c3-37d00e46cac2&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0c621019-32c5-48a2-be01-ef97a6e4e0cf&quot;,&quot;name&quot;:&quot;IntelliJSettingsRepository&quot;,&quot;revision&quot;:409394088,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/civicsystems/_apis/projects/0c621019-32c5-48a2-be01-ef97a6e4e0cf&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
           <option name="type" value="VSO_DEPLOYMENT" />
           <option name="uri" value="https://app.vssps.visualstudio.com" />
           <option name="serverUri" value="https://app.vssps.visualstudio.com" />
@@ -37,7 +46,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//dev.azure.com/civicsystems" />
+          <option name="value" value="//civicsystems@dev.azure.com/civicsystems/intellijsettingsrepository/_git/intellijsettingsrepository" />
         </PropertyState>
       </array>
     </option>
