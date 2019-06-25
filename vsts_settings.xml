@@ -1,7 +1,33 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO_DEPLOYMENT" />
+          <option name="uri" value="https://app.vssps.visualstudio.com" />
+          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
+          <option name="userId" value="2a95018a-d3f3-4616-804e-4a73ea0f658a" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://civicsystems@dev.azure.com/civicsystems/CaselleMobileApp/_git/CaselleMobileApp" />
+          <option name="serverUri" value="https://dev.azure.com/civicsystems" />
+          <option name="userId" value="2a95018a-d3f3-4616-804e-4a73ea0f658a" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;2015a2ef-f475-48c4-a890-915a3273d928&quot;,&quot;name&quot;:&quot;civicsystems&quot;,&quot;url&quot;:&quot;https://dev.azure.com/civicsystems/_apis/projectCollections/2015a2ef-f475-48c4-a890-915a3273d928&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;9fcaabd5-e562-4f3f-8298-fa74e2331f60&quot;,&quot;name&quot;:&quot;CaselleMobileApp&quot;,&quot;revision&quot;:409394193,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/civicsystems/_apis/projects/9fcaabd5-e562-4f3f-8298-fa74e2331f60&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;375e6f25-a5eb-43ea-b737-63c15dfebe64&quot;,&quot;name&quot;:&quot;CaselleMobileApp&quot;,&quot;remoteUrl&quot;:&quot;https://civicsystems@dev.azure.com/civicsystems/CaselleMobileApp/_git/CaselleMobileApp&quot;,&quot;url&quot;:&quot;https://dev.azure.com/civicsystems/9fcaabd5-e562-4f3f-8298-fa74e2331f60/_apis/git/repositories/375e6f25-a5eb-43ea-b737-63c15dfebe64&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;9fcaabd5-e562-4f3f-8298-fa74e2331f60&quot;,&quot;name&quot;:&quot;CaselleMobileApp&quot;,&quot;revision&quot;:409394193,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/civicsystems/_apis/projects/9fcaabd5-e562-4f3f-8298-fa74e2331f60&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/civicsystems" />
+          <option name="serverUri" value="https://dev.azure.com/civicsystems" />
+          <option name="userId" value="2a95018a-d3f3-4616-804e-4a73ea0f658a" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
       <array>
@@ -11,7 +37,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//civicsystems.visualstudio.com/casellemobileapp/_git/casellemobileapp" />
+          <option name="value" value="//dev.azure.com/civicsystems" />
         </PropertyState>
       </array>
     </option>
